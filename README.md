@@ -26,7 +26,7 @@ This is a basic weather website built using HTML, CSS, and JavaScript. It fetche
 
 2. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/simple-weather-website.git
+   git clone https://github.com/Aishwarya-KB-Gowda/Bharat_Intern_task1.git
    ```
 
 3. **Install Dependencies (if using external weather icon library):**
